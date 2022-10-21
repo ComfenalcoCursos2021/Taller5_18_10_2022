@@ -1,0 +1,21 @@
+/* body{
+    width: 280px;
+    margin: 0 auto;
+} */
+input{
+    display: block;
+}
+input[type="submit"]{
+    margin-top: 15px;
+}
+table{
+    margin-top: 15px;
+    /* display: block; */
+}
+button{
+    border: none;
+    border-radius: 5px;
+    padding: 0;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
